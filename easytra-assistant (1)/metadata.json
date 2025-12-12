@@ -1,0 +1,7 @@
+{
+  "name": "EasyTra Assistant",
+  "description": "An intelligent, AI-powered public transport assistant using Google Search Grounding to provide real-time, personalized mobility advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
